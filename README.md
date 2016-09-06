@@ -1,2 +1,3 @@
 # hello_world
-I dont know...
+I study cpp
+and like to know about qt
